@@ -1,0 +1,20 @@
+{
+  "name": "int heroes",
+  "description": "Math game",
+  "main": "webpack.config.js",
+  "authors": [
+    "Joshua <joshling1919@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/joshling1919/integer-heroes",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "EaselJS": "^0.8.2"
+  }
+}
