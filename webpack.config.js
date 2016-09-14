@@ -13,25 +13,17 @@ module.exports = {
   devtool: 'source-maps',
   module: {
         loaders: [
-            { test: /bower_components\/EaselJS\/.*\.js$/,
-              loader: ['imports?this=>window!exports?window.createjs', 'babel'],
+            { test: [/\.jsx?$/, /\.js?$/],
+              loader: 'babel',
               exclude: /(node_modules|bower_components)/,
               query: {
-                presets: ['es2015', 'react']
+                presets: ['es2015']
               }
             }
         ]
     },
-
-    plugins: [
-        // This will tell Webpack how to find the main file of bower modules
-        new webpack.ResolverPlugin(
-            new webpack.ResolverPlugin.DirectoryDescriptionFilePlugin('.bower.json', ['main'])
-        )
-    ],
-
     resolve: {
-        modulesDirectories: ['node_modules', 'bower_components'],
+        modulesDirectories: ['node_modules'],
         extensions: ["", ".js" ]
     }
 };
