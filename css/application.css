@@ -32,10 +32,13 @@ canvas {
   background-image:url("../lib/images/tron.jpg");
 }
 
-.submit {
+.buttons {
+  text-align: center;
+}
+
+.submit, .clear {
   background-color: white;
-  display: block;
-  margin: 0 auto;
+  display: inline-block;
   color: #575757;
   font-family: sans-serif;
   font-weight: 600;
@@ -44,10 +47,15 @@ canvas {
   padding: 8px 0;
   border-radius: 5px;
 }
-.submit:hover {
+.submit:hover, .clear:hover {
   cursor: pointer;
   background-color: #FFB000;
 }
+
+.clear {
+  background-color: #FF6666;
+}
+
 
 .hidden {
   display: none;
