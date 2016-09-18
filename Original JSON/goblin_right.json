@@ -1,0 +1,84 @@
+{"frames": {
+
+"Goblin0.png":
+{
+	"frame": {"x":1,"y":273,"w":220,"h":270},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":220,"h":270},
+	"sourceSize": {"w":220,"h":270},
+	"pivot": {"x":0.5,"y":0.5},
+	"vertices": [ [220,270], [0,270], [0,0], [220,0] ],
+	"verticesUV": [ [221,543], [1,543], [1,273], [221,273] ],
+	"triangles": [ [1,2,3], [0,1,3] ]
+},
+"Goblin1.png":
+{
+	"frame": {"x":223,"y":1,"w":220,"h":270},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":220,"h":270},
+	"sourceSize": {"w":220,"h":270},
+	"pivot": {"x":0.5,"y":0.5},
+	"vertices": [ [220,270], [0,270], [0,0], [220,0] ],
+	"verticesUV": [ [443,271], [223,271], [223,1], [443,1] ],
+	"triangles": [ [1,2,3], [0,1,3] ]
+},
+"Goblin2.png":
+{
+	"frame": {"x":1,"y":1,"w":220,"h":270},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":220,"h":270},
+	"sourceSize": {"w":220,"h":270},
+	"pivot": {"x":0.5,"y":0.5},
+	"vertices": [ [220,270], [0,270], [0,0], [220,0] ],
+	"verticesUV": [ [221,271], [1,271], [1,1], [221,1] ],
+	"triangles": [ [1,2,3], [0,1,3] ]
+},
+"Goblin3.png":
+{
+	"frame": {"x":1,"y":545,"w":220,"h":270},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":220,"h":270},
+	"sourceSize": {"w":220,"h":270},
+	"pivot": {"x":0.5,"y":0.5},
+	"vertices": [ [220,270], [0,270], [0,0], [220,0] ],
+	"verticesUV": [ [221,815], [1,815], [1,545], [221,545] ],
+	"triangles": [ [1,2,3], [0,1,3] ]
+},
+"Goblin4.png":
+{
+	"frame": {"x":223,"y":545,"w":220,"h":270},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":220,"h":270},
+	"sourceSize": {"w":220,"h":270},
+	"pivot": {"x":0.5,"y":0.5},
+	"vertices": [ [220,270], [0,270], [0,0], [220,0] ],
+	"verticesUV": [ [443,815], [223,815], [223,545], [443,545] ],
+	"triangles": [ [1,2,3], [0,1,3] ]
+},
+"Goblin5.png":
+{
+	"frame": {"x":223,"y":273,"w":220,"h":270},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":220,"h":270},
+	"sourceSize": {"w":220,"h":270},
+	"pivot": {"x":0.5,"y":0.5},
+	"vertices": [ [220,270], [0,270], [0,0], [220,0] ],
+	"verticesUV": [ [443,543], [223,543], [223,273], [443,273] ],
+	"triangles": [ [1,2,3], [0,1,3] ]
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "goblin_right.png",
+	"format": "RGBA8888",
+	"size": {"w":444,"h":816},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:9d9cea6d32e5c26c171e5f068a0cb074:984e5cf32b0d882d59d5c599c3d81a84:3c1d0047ca1f91cedfadb84fc13203bd$"
+}
+}
