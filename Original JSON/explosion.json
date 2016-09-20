@@ -1,0 +1,72 @@
+{"frames": {
+
+"explosion0.png":
+{
+	"frame": {"x":253,"y":1,"w":250,"h":250},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":250,"h":250},
+	"sourceSize": {"w":250,"h":250},
+	"pivot": {"x":0.5,"y":0.5},
+	"vertices": [ [250,250], [0,250], [0,0], [250,0] ],
+	"verticesUV": [ [503,251], [253,251], [253,1], [503,1] ],
+	"triangles": [ [1,2,3], [0,1,3] ]
+},
+"explosion1.png":
+{
+	"frame": {"x":1,"y":1,"w":250,"h":252},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":250,"h":252},
+	"sourceSize": {"w":250,"h":252},
+	"pivot": {"x":0.5,"y":0.5},
+	"vertices": [ [250,252], [0,252], [0,0], [250,0] ],
+	"verticesUV": [ [251,253], [1,253], [1,1], [251,1] ],
+	"triangles": [ [1,2,3], [0,1,3] ]
+},
+"explosion2.png":
+{
+	"frame": {"x":505,"y":1,"w":244,"h":248},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":244,"h":248},
+	"sourceSize": {"w":244,"h":248},
+	"pivot": {"x":0.5,"y":0.5},
+	"vertices": [ [244,248], [0,248], [0,0], [244,0] ],
+	"verticesUV": [ [749,249], [505,249], [505,1], [749,1] ],
+	"triangles": [ [1,2,3], [0,1,3] ]
+},
+"explosion3.png":
+{
+	"frame": {"x":1,"y":255,"w":248,"h":250},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":248,"h":250},
+	"sourceSize": {"w":248,"h":250},
+	"pivot": {"x":0.5,"y":0.5},
+	"vertices": [ [248,250], [0,250], [0,0], [248,0] ],
+	"verticesUV": [ [249,505], [1,505], [1,255], [249,255] ],
+	"triangles": [ [1,2,3], [0,1,3] ]
+},
+"explosion4.png":
+{
+	"frame": {"x":251,"y":255,"w":246,"h":250},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":246,"h":250},
+	"sourceSize": {"w":246,"h":250},
+	"pivot": {"x":0.5,"y":0.5},
+	"vertices": [ [246,250], [0,250], [0,0], [246,0] ],
+	"verticesUV": [ [497,505], [251,505], [251,255], [497,255] ],
+	"triangles": [ [1,2,3], [0,1,3] ]
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "explosion.png",
+	"format": "RGBA8888",
+	"size": {"w":750,"h":506},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:daff99d450f6bae9282576ccaffb0bbe:3e9f386c80ef116b5bff2592f5693f7b:900e1fb3093a9a6ecb2b2b49071c44f7$"
+}
+}
