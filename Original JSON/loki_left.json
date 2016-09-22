@@ -1,0 +1,57 @@
+{"frames": {
+
+"loki5.png":
+{
+	"frame": {"x":1,"y":1,"w":272,"h":418},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":272,"h":418},
+	"sourceSize": {"w":272,"h":418},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"loki6.png":
+{
+	"frame": {"x":499,"y":1,"w":150,"h":250},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":150,"h":250},
+	"sourceSize": {"w":150,"h":250},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"loki7.png":
+{
+	"frame": {"x":275,"y":269,"w":184,"h":236},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":184,"h":236},
+	"sourceSize": {"w":184,"h":236},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"loki8.png":
+{
+	"frame": {"x":461,"y":269,"w":176,"h":232},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":176,"h":232},
+	"sourceSize": {"w":176,"h":232},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"loki9.png":
+{
+	"frame": {"x":275,"y":1,"w":222,"h":266},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":222,"h":266},
+	"sourceSize": {"w":222,"h":266},
+	"pivot": {"x":0.5,"y":0.5}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "loki_left.png",
+	"format": "RGBA8888",
+	"size": {"w":650,"h":506},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:32b8e085cca6dbe64eb6a1b3b85eee6d:9500368230871bdd4e41dac33c08ff24:c14e7dadb52e218e6d3b0608bda75331$"
+}
+}
