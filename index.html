@@ -8,34 +8,41 @@
     <title>Integer Heroes</title>
   </head>
   <body>
-    <div class="instructions" id="instructions">
-      <button id="modal-button">Open Modal</button>
-    </div>
+    <div class="instructions" id="instructions"></div>
+
+    <button id="modal-button">Open Modal</button>
 
     <div id="modal" class="modal">
       <div class="modal-content">
         <span class="close">×</span>
-        <p>Some text in the Modal..</p>
+
         <div class="slideshow-container">
-            <div class="mySlides fade">
-              <div class="numbertext">1 / 3</div>
-              TEXT AND STUFF
-              <img src="img1.jpg" style="width:100%">
-              <div class="text">Caption Text</div>
+            <div class="mySlides">
+              <div class="slide-instructions">
+                Tip #1: Instructions are at the top!
+              </div>
+              <img src="lib/images/instructions1.png" class="slide-pic">
             </div>
 
-            <div class="mySlides fade">
-              <div class="numbertext">2 / 3</div>
-              <img src="img2.jpg" style="width:100%">
-              text2
-              <div class="text">Caption Two</div>
+            <div class="mySlides">
+              <div class="slide-instructions">
+                Tip #2: Click 'Submit' or hit 'Enter' when finished with a step.
+              </div>
+              <img src="lib/images/instructions2.png" class="slide-pic">
             </div>
 
-            <div class="mySlides fade">
-              <div class="numbertext">3 / 3</div>
-              <img src="img3.jpg" style="width:100%">
-              text3
-              <div class="text">Caption Three</div>
+            <div class="mySlides">
+              <div class="slide-instructions">
+                Tip #3: Superheroes represent positive integers. Villains represent negative integers.
+              </div>
+              <img src="lib/images/instructions3.png" class="slide-pic">
+            </div>
+
+            <div class="mySlides">
+              <div class="slide-instructions">
+                Tip #4: To correctly represent an integer, choose the correct number of heroes or villains.
+              </div>
+              <img src="lib/images/instructions4.png" class="slide-pic">
             </div>
 
           <a id="prev">&#10094;</a>
@@ -44,9 +51,10 @@
         <br>
 
         <div style="text-align:center">
-          <span class="dot" onclick="currentSlide(1)"></span>
-          <span class="dot" onclick="currentSlide(2)"></span>
-          <span class="dot" onclick="currentSlide(3)"></span>
+          <span class="dot"></span>
+          <span class="dot"></span>
+          <span class="dot"></span>
+          <span class="dot"></span>
         </div>
       </div>
     </div>
