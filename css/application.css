@@ -18,8 +18,8 @@ body {
   font-weight: 500;
   font: helvetica;
   font-family: sans-serif;
-  font-size: 160%;
-  height: 8%;
+  font-size: 130%;
+  height: 6%;
   display: block;
   white-space: nowrap;
 }
@@ -39,7 +39,7 @@ canvas {
   text-align: center;
 }
 
-.submit, .clear {
+.submit, .clear, .directions {
   background-color: white;
   display: inline-block;
   color: #575757;
@@ -50,14 +50,21 @@ canvas {
   padding: 8px 0;
   border-radius: 5px;
 }
-.submit:hover, .clear:hover {
+.submit:hover, .clear:hover, .directions:hover {
   cursor: pointer;
   background-color: #FFB000;
 }
 
+.directions {
+  background-color: yellow;
+  left: 10%;
+}
+
+
 .clear {
   background-color: #FF6666;
 }
+
 
 
 .hidden {

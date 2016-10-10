@@ -10,7 +10,6 @@
   <body>
     <div class="instructions" id="instructions"></div>
 
-    <button id="modal-button">Open Modal</button>
 
     <div id="modal" class="modal">
       <div class="modal-content">
@@ -18,6 +17,10 @@
           <span class="close">×</span>
           <div class="slideshow-container">
             <div class="mySlides">
+              <div class="welcome">
+                Welcome to Integer-Heroes!
+              </div>
+            </br>
               <div class="slide-instructions">
                 Tip #1: Instructions are at the top!
               </div>
@@ -33,7 +36,7 @@
 
             <div class="mySlides">
               <div class="slide-instructions">
-                Tip #3: Superheroes represent positive integers. Villains represent negative integers.
+                Tip #3: Each superhero represents positive one. Each villain represent negative one.
               </div>
               <img class="slide-pic" id="pic3">
             </div>
@@ -43,6 +46,13 @@
                 Tip #4: To correctly represent an integer, choose the correct number of heroes or villains.
               </div>
               <img class="slide-pic" id="pic4">
+            </div>
+
+            <div class="mySlides">
+              <div class="slide-instructions">
+                Tip #5: If they're from different sides (ie. heroes vs. villains), they fight! Otherwise, they join forces.
+              </div>
+              <img class="slide-pic" id="pic5">
             </div>
           </div>
           <a id="prev">&#10094;</a>
@@ -61,9 +71,9 @@
         </div>
       </div>
     </div>
-
     <canvas id="canvas"></canvas>
     <div class="buttons">
+      <button class="directions" id="modal-button">Directions</button>
       <button class="submit" id="first-button" type="button" name="submit"></button>
       <button class="clear" id="second-button" type="button" name="clear"></button>
     </div>

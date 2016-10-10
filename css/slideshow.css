@@ -94,6 +94,10 @@ body {font-family: Verdana,sans-serif;margin:0}
   .prev, .next,.text {font-size: 11px}
 }
 
+.welcome {
+  font-weight: 600;
+}
+
 
 .slide-instructions {
   font-weight: 600;
