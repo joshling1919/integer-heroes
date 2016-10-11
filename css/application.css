@@ -25,6 +25,16 @@ body {
   opacity: 0.3;
 }
 
+.instructions-button {
+  color: pink;
+  position: relative;
+  float: right;
+  margin-top: 0;
+}
+.instructions-button:hover {
+  cursor: pointer;
+}
+
 canvas {
   padding: 0;
   display: block;
