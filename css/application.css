@@ -18,8 +18,8 @@ body {
   font-weight: 500;
   font: helvetica;
   font-family: sans-serif;
-  font-size: 130%;
-  height: 6%;
+  font-size: 120%;
+  height: 8%;
   display: block;
   white-space: nowrap;
   opacity: 0.3;
@@ -31,7 +31,7 @@ canvas {
   margin: auto;
   background-color: black;
   margin-top: 5%;
-  width: 85%;
+  width: 82%;
   background-size: contain;
   background-image:url("../lib/images/tron.jpg");
   opacity: 0.3;
