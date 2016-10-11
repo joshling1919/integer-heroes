@@ -22,6 +22,7 @@ body {
   height: 6%;
   display: block;
   white-space: nowrap;
+  opacity: 0.3;
 }
 
 canvas {
@@ -33,6 +34,7 @@ canvas {
   width: 85%;
   background-size: contain;
   background-image:url("../lib/images/tron.jpg");
+  opacity: 0.3;
 }
 
 .buttons {
