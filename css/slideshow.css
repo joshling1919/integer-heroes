@@ -94,8 +94,13 @@ body {font-family: Verdana,sans-serif;margin:0}
   .prev, .next,.text {font-size: 11px}
 }
 
+.first-slide {
+  display: inline-flex;
+}
+
 .welcome {
   font-weight: 600;
+  margin: auto 5px; 
 }
 
 
