@@ -33,6 +33,7 @@ body {font-family: Verdana,sans-serif;margin:0}
 /* Position the "next button" to the right */
 #next {
   float: right;
+  background-color: green;
   border-radius: 3px 0 0 3px;
 }
 
@@ -100,7 +101,7 @@ body {font-family: Verdana,sans-serif;margin:0}
 
 .welcome {
   font-weight: 600;
-  margin: auto 5px; 
+  margin: auto 5px;
 }
 
 
