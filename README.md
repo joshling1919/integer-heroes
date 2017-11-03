@@ -1,6 +1,6 @@
 # Integer Heroes
 
-[Live Link](joshling1919.github.io/integer-heroes)
+[Live Link](https://joshling1919.github.io/integer-heroes/)
 
 ## Background
 
