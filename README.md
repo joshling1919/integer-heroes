@@ -4,7 +4,7 @@
 
 ## Background
 
-Integer Heroes is a math game for late primary to early middle school students. It provides students with a visual representation of integer addition and subtraction so that they can develop a stronger conceptual understanding.
+Integer Heroes is a math game for late primary to early middle school students. It provides students with a visual representation of integer addition so that they can develop a stronger conceptual understanding.
 
 In Integer Heroes, students are first given an integer operation problem (ie. 5 + (-9)= ?). Then, they have to decide the appropriate way to represent each of the numbers in the problem. In this game, **superheroes represent positive numbers, and supervillains represent negative numbers**. In the case of 5 + (-9), the students would select 5 heroes to represent the positive five, and 9 villains to represent the negative nine.
 
