@@ -1,5 +1,7 @@
 ## Integer Heroes
 
+[Live Link](joshling1919.github.io/integer-heroes)
+
 ### Background
 
 Integer Heroes is a math game for late primary to early middle school students. It provides students with a visual representation of integer addition and subtraction so that they can develop a stronger conceptual understanding.
