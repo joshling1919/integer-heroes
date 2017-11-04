@@ -26,6 +26,7 @@ canvas {
   width: 15%;
   padding: 8px 0;
   border-radius: 5px;
+  visibility: hidden;
 }
 .submit:hover, .clear:hover {
   cursor: pointer;
