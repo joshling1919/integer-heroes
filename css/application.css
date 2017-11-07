@@ -6,37 +6,12 @@ canvas {
   padding: 0;
   display: block;
   margin: auto;
+  margin-top: 30px;
   background-color: black;
-  margin-top: 7%;
-  width: 82%;
+  width: 90%;
   background-size: contain;
   background-image:url("../lib/images/tron.jpg");
 }
-
-.buttons {
-  text-align: center;
-}
-
-.submit, .clear {
-  background-color: white;
-  color: #575757;
-  font-family: sans-serif;
-  font-weight: 600;
-  font-size: 95%;
-  width: 15%;
-  padding: 8px 0;
-  border-radius: 5px;
-  visibility: hidden;
-}
-.submit:hover, .clear:hover {
-  cursor: pointer;
-  background-color: #FFB000;
-}
-
-.clear {
-  background-color: #FF6666;
-}
-
 
 .hidden {
   display: none;
